@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Student App!</h2>
+<h2>Web App</h2>
 
 
 <a href="insert"> Insert</a><br/>
